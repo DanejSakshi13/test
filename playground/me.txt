@@ -1,6 +1,0 @@
- 
-{{#user}}
-Name: Sakshi Danej
-Skills: HTML, CSS, JS, Python, React.js, C++, Java
-Email: sakshi1314.d@gmail.com
-{{/user}}
